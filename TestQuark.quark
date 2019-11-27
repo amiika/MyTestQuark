@@ -1,0 +1,10 @@
+(
+	\name:			"TestQuark",
+	\path:			"TestQuark",
+	\summary:		"Just a test",
+	\author:			"amiika",
+	\helpdoc:			"empty.html",
+	\url:				"http://example.org",
+	\version:			1.0,
+	\isCompatible:		{Main.versionAtLeast(3, 1)}
+)
