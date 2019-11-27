@@ -3,6 +3,6 @@ MyTestQuark {
 		^this.test(k,n);
 	}
 	*test {|k,n|
-	       k+n;
+	       ^k+n;
 	      }
 }
