@@ -1,6 +1,6 @@
 (
-	\name:			"TestQuark",
-	\path:			"TestQuark",
+	\name:			"MyTestQuark",
+	\path:			"MyTestQuark",
 	\summary:		"Just a test",
 	\author:			"amiika",
 	\helpdoc:			"empty.html",
