@@ -1,4 +1,4 @@
-TestQuark {
+MyTestQuark {
 	*new {|k, n|
 		^this.test(k,n);
 	}
