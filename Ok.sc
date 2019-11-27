@@ -1,5 +1,8 @@
 Ok {
   *new {|i|
-    i;
+    ^i;
+  }
+  *lol {
+  "lol".postln;
   }
 }
