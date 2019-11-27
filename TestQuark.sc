@@ -1,8 +1,8 @@
 TestQuark {
 	*new {|k, n|
-		k+n;
+		^this.test(k,n);
 	}
-	*test {|n|
-	       n
+	*test {|k,n|
+	       k+n;
 	      }
 }
